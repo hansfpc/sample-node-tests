@@ -1,7 +1,7 @@
 {
   "name": "node-tests",
   "version": "1.0.0",
-  "description": "test",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha **/*.test.js",
